@@ -10,7 +10,7 @@ Time spent: 1 hour spent in total
 
 The following functionality is completed:
 
-- [ ] Users are provided a screen with three labels and a button
+- [x] Users are provided a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough

@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome!<br><br>🧑‍💻 Software Engineer Intern @ Divno<br>📚 Computer Science @ Fordham University<br>⚒️ Currently Working on a various projects, incluidng my portfolio.<br><br>
+Welcome!<br><br>🧑‍💻 Full Stack Developer @ Divno<br>📚 Computer Science @ Fordham University<br>⚒️ Currently Working on a various projects, incluidng my portfolio.<br><br>
 
 
 ## 🌐 Socials:

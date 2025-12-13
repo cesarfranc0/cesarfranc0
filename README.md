@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full Stack Developer Intern @ Sevo<br><br>👨‍💻 Developer • 📚 Tutor • 🧑‍🏫 Mentor • 🎓 Student<br><br>🎓 Computer Science @ Fordham University<br><br>🔍 Interested in Backend & Frontend Development, 📊 Data Analysis, 🤖 Machine Learning<br><br>⚾️🏀🏈 Fun Fact: I’m an avid baseball, basketball, and American football fan!
+💻 SWE Intern @ Sevo<br><br>👨‍💻 Developer • 📚 Tutor • 🧑‍🏫 Mentor • 🎓 Student<br><br>🎓 Computer Science @ Fordham University<br><br>🔍 Interested in Backend & Frontend Development, 📊 Data Analysis, 🤖 Machine Learning<br><br>⚾️🏀🏈 Fun Fact: I’m an avid baseball, basketball, and American football fan!
 
 
 ## 🌐 Socials:

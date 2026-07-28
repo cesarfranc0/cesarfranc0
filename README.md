@@ -1,4 +1,4 @@
-# Hello, my name is Cesar!
+Hello, my name is Cesar!
 
 Recent Computer Science Graduate from Fordham University.
 

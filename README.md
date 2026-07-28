@@ -2,7 +2,7 @@ Hello, my name is Cesar!
 
 Recent Computer Science Graduate from Fordham University.
 
-### Currently
+Currently:
 
 * Software Engineer @ https://thesevo.app/
 * Building personal projects and exploring new ideas
